@@ -17,6 +17,10 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Hola Maria");
         System.out.println("Segunda prueba");
+        System.out.println("Tercera prueba");
+        System.out.println("Primer cambio");
+        System.out.println("Segundo cambio");
+        System.out.println("Hola");
     }
     
 }
